@@ -42,7 +42,7 @@ export class Details {
                 </div>
                 <div class="col-12 col-sm-12 col-md-6 col-lg-6 p-2">
                     <div class="game-details">
-                    <div id="closeMark" class="close-mark w-25 ms-auto my-3 text-center fs-3">
+                    <div id="closeMark" class="close-mark text-center fs-3">
                 <i class="fa-solid fa-xmark fa-fade"></i>
             </div>
                         <h5>Title: <span>${arr.title}</span></h5>
