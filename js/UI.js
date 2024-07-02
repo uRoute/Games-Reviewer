@@ -13,7 +13,7 @@ export class Display {
                             <p class="text-white">Title: <span class="info">${arr[i].title}</span> </p>
                             <p class="text-white">Category: <span class="info">${arr[i].genre}</span> </p>
                             <p class="text-white">Platform: <span class="info">${arr[i].platform}</span> </p>
-                            <p class="text-white">Authoer: <span class="info">${arr[i].developer}</span> </p>
+                            <p class="text-white">Author: <span class="info">${arr[i].developer}</span> </p>
                         </div>
                     </div>
                    
